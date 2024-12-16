@@ -12,17 +12,17 @@ A deep learning project from University of Toronto's APS360 course
 | APS360_Project.ipynb  | Main Code  |
 
 
-##**Primary Model**
+## Primary Model
 
 ![image](https://github.com/user-attachments/assets/47c946bb-479b-4582-82fc-8ad54682fbf1)
 
 
-##**Model Training**
+## Model Training
 
 We trained multiple neural network models using A100 gpu from Google Colab. A unique training procedure has been used where we alternate between CNN Layers and metadata / classification layers training.
 
 
-##**Results**
+## Results
 
 | **Model**            | EffNetB0 | EffNetB1 | EffNetB2 | EffNetB3 | ResNet18 | SEResNeXt50 | ResNest101 | SEResNeXt101 | Ensemble |
 |------------------|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------:|:------------:|:--------------:|:----------:|
