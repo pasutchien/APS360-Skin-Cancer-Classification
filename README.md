@@ -25,8 +25,8 @@ We trained multiple neural network models using A100 gpu from Google Colab. A un
 **Results**
 
 | **Model**            | EffNetB0 | EffNetB1 | EffNetB2 | EffNetB3 | ResNet18 | SEResNeXt50 | ResNest101 | SEResNeXt101 | Ensemble |
-|------------------|----------|----------|----------|----------|----------|--------------|------------|--------------|----------|
-| **Validation Balanced Accuracy** | 0.66 | 0.69 | 0.66 | 0.68 | 0.67 | 0.65 | 0.68 | 0.7 | .. |
+|------------------|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------:|:------------:|:--------------:|:----------:|
+| **Validation Balanced Accuracy** | 0.66 | 0.69 | 0.66 | 0.68 | 0.67 | 0.65 | 0.68 | 0.7 | 0.71 |
 
 
 Presentation Video: https://youtu.be/OZsxupcjyW4
