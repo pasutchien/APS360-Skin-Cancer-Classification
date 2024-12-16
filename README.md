@@ -28,5 +28,6 @@ We trained multiple neural network models using A100 gpu from Google Colab. A un
 |------------------|:----------:|:----------:|:----------:|:----------:|:----------:|:--------------:|:------------:|:--------------:|:----------:|
 | **Validation Balanced Accuracy** | 0.66 | 0.69 | 0.66 | 0.68 | 0.67 | 0.65 | 0.68 | 0.7 | 0.71 |
 
+![image](https://github.com/user-attachments/assets/380a856c-dcde-40a5-974e-b7f1fe71433b)
 
 Presentation Video: https://youtu.be/OZsxupcjyW4
