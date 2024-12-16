@@ -1,7 +1,9 @@
 # APS360-Skin-Cancer-Classification
 A deep learning project from University of Toronto's APS360 course
 
-![image](https://github.com/user-attachments/assets/68e3dda7-630f-475a-a224-e6816cddea05)
+**Primary Model**
+![image](https://github.com/user-attachments/assets/47c946bb-479b-4582-82fc-8ad54682fbf1)
+
 
 
 Presentation Video: https://youtu.be/OZsxupcjyW4
