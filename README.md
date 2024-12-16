@@ -1,7 +1,9 @@
 # APS360-Skin-Cancer-Classification
 A deep learning project from University of Toronto's APS360 course 
 
-Note: The code should be implemented in Google Colab
+**Note: The code should be implemented in Google Colab**
+
+**File Distribution**
 
 | File  | Description |
 | ------------- | ------------- |
